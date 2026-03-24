@@ -1,0 +1,1 @@
+# soedaemon-vote-map
